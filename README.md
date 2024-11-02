@@ -20,7 +20,10 @@ The project is divided into two primary parts, each documented in its own folder
 
 ## Conclusions
 
-Through this project, I have developed a deeper understanding of the practical applications and limitations of the MPU6050 and GY-BNO055 sensors for 3D mapping. While the MPU6050 is affordable and easy to use, it presents limitations in accuracy, making it suitable for basic movement detection rather than precise spatial tracking. Conversely, the GY-BNO055 sensor offers higher accuracy with pre-filtered data, enabling it to handle complex motion scenarios, such as stair-climbing.
+This project provided valuable insights into the capabilities and limitations of the MPU6050 and GY-BNO055 sensors for 3D mapping applications. The MPU6050 sensor, while affordable and easy to integrate, lacks the precision required for accurate spatial tracking, especially over extended periods. Due to its limited accuracy, I was able to simulate only basic movements, such as oscillatory and circular motions. For more complex movement simulations, like stair-climbing, I transitioned to the GY-BNO055 sensor, which offers significantly higher accuracy and provides pre-filtered data, making it well-suited for such detailed applications.
+
+The MPU6050 sensor still holds potential for future exploration in basic 3D mapping; however, its current limitations make it more suitable as an educational tool for understanding fundamental 3D mapping concepts. Despite its challenges, the MPU6050 remains valuable in applications where absolute accuracy is less critical, providing a low-cost introduction to motion tracking. For precise and reliable 3D mapping, the GY-BNO055 or similar advanced sensors are recommended.
+
 
 ## Repository Structure
 
