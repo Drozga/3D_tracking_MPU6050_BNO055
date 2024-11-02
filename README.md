@@ -8,9 +8,12 @@ The project is divided into two primary parts, each documented in its own folder
 
 1. **Oscillatory and Circular Movements**  
    This folder includes code and documentation on experiments with oscillatory (back-and-forth) and circular motions. Using the MPU6050 and GY-BNO055 sensors, these experiments demonstrate the sensors' ability to capture consistent patterns in controlled environments. The oscillatory movement showcases the sensor's ability to detect repetitive motion, while circular movement highlights rotational tracking capabilities around a central point.
+![kruzno](https://github.com/user-attachments/assets/222a9a93-0dda-4818-93cf-83243cb32903)
 
 2. **Complex Movements: Stair-Climbing Simulation**  
    The second folder contains code and detailed analysis of experiments simulating stair-climbing. These tests involve tracking the sensor's position during simulated steps, showcasing how the GY-BNO055 sensor, with its higher accuracy, captures more intricate movements. In these experiments, stationary periods are detected to simulate moments when a foot remains on a step, emphasizing precise 3D mapping under real-world constraints.
+![steps](https://github.com/user-attachments/assets/a2bf0473-09e0-4acb-b332-20b38b8ceb2b)
+
 
 ## Conclusions
 
