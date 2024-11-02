@@ -2,6 +2,9 @@
 
 This repository contains the code, explanations, and findings from my bachelor's thesis on *3D mapping using the MPU6050 and GY-BNO055 sensors*. The project explores sensor-based motion tracking, enabling the mapping of movement in three-dimensional space through oscillatory, circular, and more complex motion patterns. The insights and results of this research provide a foundation for further applications in fields requiring precise spatial orientation and position tracking.
 
+The simulation of movement tracking was performed in MATLAB. Using sensor data, various movement patterns, including oscillatory, circular, and complex motions, were accurately visualized in a 3D environment. MATLAB's powerful data processing and visualization capabilities allowed for detailed analysis of the sensor data, showcasing the effectiveness of the MPU6050 and GY-BNO055 sensors for 3D mapping applications.
+
+
 ## Project Overview
 
 The project is divided into two primary parts, each documented in its own folder:
