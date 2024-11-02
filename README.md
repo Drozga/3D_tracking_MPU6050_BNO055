@@ -1,6 +1,6 @@
 # 3D Mapping with MPU6050 and GY-BNO055 Sensors
 
-This repository contains the code, explanations, and findings from my bachelor's thesis on 3D mapping using the MPU6050 and GY-BNO055 sensors. The project explores sensor-based motion tracking, enabling the mapping of movement in three-dimensional space through oscillatory, circular, and more complex motion patterns. The insights and results of this research provide a foundation for further applications in fields requiring precise spatial orientation and position tracking.
+This repository contains the code, explanations, and findings from my bachelor's thesis on *3D mapping using the MPU6050 and GY-BNO055 sensors*. The project explores sensor-based motion tracking, enabling the mapping of movement in three-dimensional space through oscillatory, circular, and more complex motion patterns. The insights and results of this research provide a foundation for further applications in fields requiring precise spatial orientation and position tracking.
 
 ## Project Overview
 
