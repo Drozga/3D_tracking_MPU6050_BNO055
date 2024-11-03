@@ -38,6 +38,11 @@ The MPU6050 sensor still holds potential for future exploration in basic 3D mapp
 To replicate or extend this project, each folder contains a README file with specific instructions on setup, dependencies, and usage. Ensure you have the required sensors and follow the provided guidelines for optimal results.
 ![uredjaj1](https://github.com/user-attachments/assets/0b86bd08-073f-4b47-996c-4419dc2aab01)
 
+SD:![SD card](https://github.com/user-attachments/assets/eeeadba1-289c-4c0e-89f7-f824855a3231)
+SENSORS:![Arduino-and-MPU6050-Circuit-Diagram-768x400](https://github.com/user-attachments/assets/85e67359-bae2-4486-b557-0e388ab09144)
+
+
+
 ---
 
 Thank you for exploring this repository, and I hope the insights provided here assist others in the field of 3D motion tracking and mapping.
