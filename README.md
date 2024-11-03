@@ -36,6 +36,7 @@ The MPU6050 sensor still holds potential for future exploration in basic 3D mapp
 ## Getting Started
 
 To replicate or extend this project, each folder contains a README file with specific instructions on setup, dependencies, and usage. Ensure you have the required sensors and follow the provided guidelines for optimal results.
+![uredjaj1](https://github.com/user-attachments/assets/0b86bd08-073f-4b47-996c-4419dc2aab01)
 
 ---
 
