@@ -2,7 +2,7 @@ clear;
 close all;
 clc;
 addpath('Quaternions');
-addpath('Podaci sa senzora');
+addpath('Sensor_Data');
 % -------------------------------------------------------------------------
 filePath = 'data.csv';
 data = readtable(filePath, 'VariableNamingRule', 'preserve');
